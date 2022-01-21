@@ -10,7 +10,6 @@
 </a>
 <br>
 <hr>
-<br>
 
 #### About me
 - 🌴 Based in San Diego, CA
