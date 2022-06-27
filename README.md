@@ -13,7 +13,7 @@
 
 #### About me
 - 🌴 Based in San Diego, CA
-- 📚 Third-year student double-majoring in Data Science and Cognitive Science at UCSD
+- 📚 Fourth-year student double-majoring in Data Science and Cognitive Science at UCSD
 - 💻 Interested in Data Engineering & Visualization, Database Management
 - ⚽ Soccer geek in spare time
 
