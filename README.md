@@ -14,7 +14,7 @@
 #### About me
 - 🌴 Based in San Diego, CA
 - 📚 Fourth-year student double-majoring in Data Science and Cognitive Science at UCSD
-- 💻 Interested in Data Engineering & Visualization, Database Management
+- 💻 Interested in Software Engineering, Data Engineering, Database Management
 - ⚽ Soccer geek in spare time
 
 #### Language & Skills
